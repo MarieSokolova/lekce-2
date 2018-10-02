@@ -1,7 +1,5 @@
+Den v týdnu:
+<br><?php
+$den = 'pátek';
+echo $den;?></br>
 
-<?php
-$den = 'pátek';?>
-
-<p>Den v týdnu:</p>
-<?php
-echo $den;?>
